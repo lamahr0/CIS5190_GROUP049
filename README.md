@@ -1,4 +1,4 @@
-# CIS5190_GROUP049
+# Project Oil Temperature Prediction Project 
 Project Oil Temperature Prediction Project 
 
 This repoistory is created to fullfill the requirements for the CIS5190 Project. <br>
