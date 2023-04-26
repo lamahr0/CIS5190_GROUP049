@@ -15,6 +15,8 @@ The dataset used can be found the following repoistory: https://github.com/zhouh
 Files: <br>
 CIS_519_Project_oil_temperature_prediction.ipynb : A jyputer notebook containing the whole project with all the phases<br>
 the dataset is already referenced in notebook by urls. 
+Due to issues with github rendering of jyputer notebooks, another alterantive link is:<br>
+https://nbviewer.org/github/lamahr0/CIS5190_GROUP049/blob/main/CIS_519_Project_oil_temperature_prediction.ipynb
 
 Build Instructions: <br> 
 -load the required libraries as seen the notebook
