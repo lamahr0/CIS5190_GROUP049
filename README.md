@@ -16,3 +16,6 @@ Files: <br>
 CIS_519_Project_oil_temperature_prediction.ipynb : A jyputer notebook containing the whole project with all the phases<br>
 the dataset is already referenced in notebook by urls. 
 
+Build Instructions: <br> 
+-load the required libraries as seen the notebook
+-run the code in google colab or local machine 
